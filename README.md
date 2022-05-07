@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PeterGreshnov
+- 💻 I'm PMI PMP Certified IT Project Manager with 7+ years of experience of working on small to mid to enterprise level of IT projects. Managing and growing distributed cross-cultural teams from all across the globe.
+- 🌱 Here I’m currently working on improving my knowledge of modern development tools, frameworks and CI\CD pipelines; 
+- 📫 greshnov.peter at gmail.com
