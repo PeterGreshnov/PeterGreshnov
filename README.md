@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @PeterGreshnov
-- 💻 I'm [PMI PMP Certified IT Project Manager](https://www.credly.com/badges/4ad06803-4662-4556-a0f2-a59a50df4971/public_url) and [AWS Certified Cloud Practitioner](https://www.credly.com/badges/ddf7637c-fd55-46db-92bd-037000039c50/public_url) with 7+ years of experience of working on small to mid to enterprise level of IT projects. Managing and growing distributed cross-cultural teams from all across the globe.
+- 💻 I'm [PMI PMP Certified IT Project Manager](https://www.credly.com/badges/4ad06803-4662-4556-a0f2-a59a50df4971/public_url) and [AWS Certified Cloud Practitioner](https://www.credly.com/badges/ddf7637c-fd55-46db-92bd-037000039c50/public_url) with 10+ years of experience of working on small to mid to enterprise level of IT projects. Managing and growing distributed cross-cultural teams from all across the globe.
 - 🌱 Here I’m currently working on improving my knowledge of modern development tools, frameworks and CI\CD pipelines; 
 - 📫 greshnov.peter at gmail.com
